@@ -1,0 +1,1 @@
+This is a mini-project that I completed as an algorithm-a-week assignment for my algorithms class in fall 2013. There is a .java file of the code, a zipped version of the netbeans project folder (netbeans was used for development), and the algorithm report that I turned in as part of the assignment.
